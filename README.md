@@ -218,3 +218,7 @@ This project is unlicensed. Feel free to use, modify, and distribute the code as
 # Contact
 
 For issues or questions, please open an issue on the repository or contact the maintainer.
+
+# Authors
+
+@LuceilIsRight
