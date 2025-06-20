@@ -221,4 +221,6 @@ For issues or questions, please open an issue on the repository or contact the m
 
 # Authors
 
-@LuceilIsRight
+@LuceilIsRight(https://github.com/LuceilIsRight)
+
+@K-Suvan(https://github.com/K-Suvan)
